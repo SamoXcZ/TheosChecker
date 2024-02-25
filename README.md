@@ -7,11 +7,14 @@ TheosChecker is a straightforward application designed to verify whether Theos i
 
 🟢Supported iOS - Devices🟢
 
-Unfortunately, TheosChecker is currently only available for the Bootstarp jailbreak, and thus, the supported iOS versions are:
+❗️Now Working in Dopamine/Bootstarp Jailbreak❗️
 
-All Arm64e
+[All Arm64e]
 
-• iOS 15.0-17.0
+• iOS 15.0 up lastest
 
-❗️Arm64 is untested for now❗️
+[All Arm64e]
+
+• 15.0-17.0
+
 
